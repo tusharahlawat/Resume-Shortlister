@@ -10,6 +10,14 @@ A powerful application that analyzes resumes against job requirements using Natu
 - Experience and education evaluation
 - Detailed scoring breakdown for each resume
 
+## Demo
+
+![image](https://github.com/user-attachments/assets/ca19dd52-797d-4fef-9a82-54b85202d1e2)
+
+![image](https://github.com/user-attachments/assets/7ba24146-f0a2-4c28-a453-ecd0cad49fe7)
+
+![image](https://github.com/user-attachments/assets/a3e6cbc0-691c-4a2a-a85b-ad987848830d)
+
 ## Tech Stack
 
 ### Backend
